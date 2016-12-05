@@ -1,0 +1,29 @@
+.post-list-group {
+    margin-bottom: 20px;
+  .list-group-item {
+    position: relative;
+    margin-bottom: 10px;
+    border-radius: .25rem;
+    padding-right: 50px;
+    padding-left: 50px;
+    overflow : hidden;
+    text-overflow : ellipsis;
+    white-space : nowrap;
+    .todo-delete {
+      position: absolute;
+      right: 15px;
+      top: 12px;
+    }
+
+    .todo-checkbox {
+      position: absolute;
+      left: 15px;
+      top: 16px;
+    }
+
+    &.complated {
+      text-decoration: line-through;
+    }
+
+  }
+}
