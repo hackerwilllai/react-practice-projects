@@ -4,6 +4,8 @@
 #### Current version is v0.2.0
 
 ---
+v0.3.0
+- add react-cordova project
 
 v0.2.0
 - add react-todo project
