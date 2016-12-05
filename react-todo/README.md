@@ -1,9 +1,8 @@
 # React Blog Demo
 
 You can do something:
-- Show all post
-- Add new post
-- Delete post
+- Add todo
+- Delete todo
 
 
 ### How to run
