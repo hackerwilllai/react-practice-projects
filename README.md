@@ -1,9 +1,12 @@
 # React Practice Projects
 
 
-#### Current version is v0.2.0
+#### Current version is v0.3.1
 
 ---
+v0.3.1
+- edit README.md
+
 v0.3.0
 - add react-cordova project
 
