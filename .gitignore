@@ -51,3 +51,6 @@ jspm_packages
 bower_components/
 
 .DS_Store
+
+# Cordova platforms
+platforms
